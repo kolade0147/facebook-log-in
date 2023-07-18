@@ -1,0 +1,82 @@
+body{
+    background: #e5e4e2;
+  }
+  .one{
+    margin-top: 200px;
+    width: 350px;
+  }
+  .help{
+    margin-top: 5px;
+    margin-bottom: 100px;
+    margin-left: 40px;
+    font-size: 30px;
+  }
+  .mail{
+    display: block;
+    width: 320px;
+    padding: 15px;
+    margin: 20px;
+    font-size: 18px;
+    border-radius: 8px;
+     border: 1px solid #e5e4e2;
+  }
+  .pass{
+    display: block;
+    width: 320px;
+    padding: 15px;
+    margin: 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #e5e4e2;
+  }
+  .btn{
+    display: block;
+    width: 355px;
+    padding: 15px;
+    margin: 20px;
+    font-size: 18px;
+    background: #0000ff;
+    border: 0;
+    border-radius: 8px;
+    color: #ffffff;
+    font-weight: bold;
+  }
+  .pass{
+    display: block;
+  }
+  .a{
+    display: block;
+    margin-left: 140px;
+    font-size: 17px;
+  }
+  .new{
+    width: 220px;
+    padding: 15px;
+    margin: 20px;
+    font-size: 17px;
+    margin-left: 100px;
+    color: #ffffff;
+    background: #32cd32;
+    border: 0;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  .form{
+    background: #ffffff;
+    height: 370px;
+    width: 400px;
+    padding: 2px;
+    border-radius: 8px;
+    margin-top: 180px;
+    margin-left: 20px;
+  }
+  .pge{
+    color: black;
+    font-weight: bold;
+    margin-left: 50px;
+  }
+  .main{
+  justify-content: centre;
+  display: flex;
+  }
+  
